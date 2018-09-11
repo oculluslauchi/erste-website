@@ -1,6 +1,7 @@
 html, body{
-	font-family: Arial, sans-serif;
+	font-family: impact, sans-serif;
 	margin: 0;
+	text-shadow: 0px 0 2px black;
 }
 
 header {
@@ -22,9 +23,10 @@ header img{
 }
 /*den content betreffend*/
 .content{
-	max-width: 900px;
+	max-width: 1200px;
 	margin: 0 auto;
 	padding: 0 20px;
+	color: blue;
 }
 
 img.big-image{
@@ -35,6 +37,7 @@ p.caption{
 	font-size: 16px;
 	color: lightgrey;
 	font-style: italic;
+	text-shadow: 2px 2px 2px black;
 }
 
 ul{
